@@ -28,9 +28,9 @@ Digital-Egypt-Pioneers-Initiative-Project/
 # 🔧 Prerequisites    
 To run this project, you will need:   
 
-  *Python 3.x installed on your system   
-  *Flask (for the web app)   
-  *TensorFlow (for loading the pre-trained model)   
+  * Python 3.x installed on your system   
+  * Flask (for the web app)   
+  * TensorFlow (for loading the pre-trained model)   
   * NLTK (for text preprocessing)    
 Wordcloud (for generating wordclouds)  
 # 📦 Installation and Setup   
@@ -67,7 +67,7 @@ python3 app.py
 # 📚 API Documentation
   ## Endpoint: /predict      
   * Method: POST        
-  *Description: Accepts a news headline as input and predicts the category.   
+  * Description: Accepts a news headline as input and predicts the category.   
 # Request Example:
 POST /predict
 Content-Type: application/json
