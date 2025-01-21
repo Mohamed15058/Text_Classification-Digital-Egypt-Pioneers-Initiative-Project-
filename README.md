@@ -49,7 +49,7 @@ python3 app.py
 http://localhost:5000    
 
 For Windows Users
-1-Download the requirements.txt file
+1-Download the requirements.txt file    
 2-Create a virtual environment:
 python -m venv venv  
 source venv/Scripts/activate          
